@@ -8,7 +8,36 @@ The goals of [Exercises 1](exercises01-SDS383D.pdf) are:
 - to provide you with a review of Bayesian updating in simple conjugate families  
 - to treat the multivariate normal distribution in some depth.  Since this distribution is so fundamental to working with hierarchical Bayesian models, it's worth the effort.  
 
-By January 31, please complete the first two sections, on "Bayesian inference in simple conjugate families" and "The multivariate normal distribution".  By February 2, please complete the section on "Multiple regression: three classical principles for inference."  Be ready to present in class on any of these problems if called upon.  
+By January 31, please complete the first two sections, on "Bayesian inference in simple conjugate families" and "The multivariate normal distribution".
+
+By February 2, please complete the section on "Multiple regression: three classical principles for inference."  
+
+By Feb 7: please have the section on "Some practical details" ready for class.  Be ready to show code.  
+
+
+## Exercises 2: GLMs
+
+The goals of [Exercises 2](exercises02-SDS383D.pdf) are: 
+- to review (or, depending on your prior training, introduce) exponential families.    
+- to construct and understand the basic properties of generalized linear models (GLMs)  
+- to fit GLMs "from scratch," comparing gradient descent and Newton's method.  
+
+Expected timeline:  
+- By Feb 9: Exponential families, A through D  
+- By Feb 14: Generalized linear models, A through C  
+- By Feb 16: Fitting GLMs, A through C  
+- By Feb 21: Fitting GLMs, D through G  
+
+## Exercises 3: Bayes and the Gaussian linear model  
+
+The goals of [Exercises 3](exercises03-SDS383D.pdf) are: 
+- to introduce the normal/inverse-gamma conjugate prior for a location-scale model.    
+- to construct and fit a simple Bayesian linear model from scratch, based on normal/inverse-gamma conjugacy.  
+- to introduce hierarchical modeling, in the form of a regression model with heteroskedastic error.  
+
+Expected timeline TBA, but as a starting point:  
+- By Feb 23: aim to finish the section on "A simple Gaussian location model"  
+
 
 <!-- 
 ## Exercises 2: Bayes and the Gaussian linear model  
